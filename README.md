@@ -1,4 +1,5 @@
 # BookSky
 
-A web project built with HTML, CSS, and JavaScript to manage and explore books.  
-Future updates planned to evolve into a full Book Journal app.
+BookSky is a simple web project built using HTML, CSS, and JavaScript.  
+It allows users to manage book listings.  
+Planned to evolve into a full-featured Book Journal in the future.
